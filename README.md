@@ -1,4 +1,2 @@
-# Test_DataScience_CourseraCapstone
-Test project for IBM Data Science Capstone Project
-
-This is a markdown text of this repository.
+# IBM_DataScience_CourseraCapstone
+Repositoty for my IBM Data Science Capstone Project.
